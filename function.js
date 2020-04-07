@@ -7,6 +7,8 @@
 
 ** JS **
 (function() {
+  'use strict';
+  
   var nomeInput = document.querySelector('.field-name');
   var recebeInput = document.getElementById('getinput');
   var btnEnvio = document.querySelector('.btnenvio');
