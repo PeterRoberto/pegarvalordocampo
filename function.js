@@ -1,3 +1,11 @@
+** HTML **
+<input type="text" class="field-name">
+<div id="getinput"></div>
+<button class="btnenvio">Enviar</button>
+
+
+
+** JS **
 (function() {
   var nomeInput = document.querySelector('.field-name');
   var recebeInput = document.getElementById('getinput');
